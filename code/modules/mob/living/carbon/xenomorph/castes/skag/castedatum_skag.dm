@@ -44,9 +44,7 @@
 		/datum/action/ability/xeno_action/xeno_resting,
 		/datum/action/ability/xeno_action/watch_xeno,
 		/datum/action/ability/activable/xeno/psydrain,
-		/datum/action/ability/xeno_action/xenohide,
-		/datum/action/ability/xeno_action/evasion,
-		/datum/action/ability/activable/xeno/pounce/runner,
+		/datum/action/ability/activable/xeno/pounce/skag,
 	)
 
 /datum/xeno_caste/runner/normal
@@ -62,8 +60,5 @@
 		/datum/action/ability/xeno_action/xeno_resting,
 		/datum/action/ability/xeno_action/watch_xeno,
 		/datum/action/ability/activable/xeno/psydrain,
-		/datum/action/ability/xeno_action/xenohide,
-		/datum/action/ability/xeno_action/evasion,
-		/datum/action/ability/activable/xeno/pounce/runner,
-		/datum/action/ability/activable/xeno/snatch,
+		/datum/action/ability/activable/xeno/pounce/skag,
 	)
