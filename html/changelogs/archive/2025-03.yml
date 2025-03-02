@@ -21,3 +21,21 @@
       from not going through when off.
   novaepee:
   - spellcheck: 2025 tip update!
+2025-03-02:
+  Apple-107:
+  - rscadd: SG-153 Spotting Rifle Ammo Bin (Underbarrel of SG-62 Target Rifle) now
+      purchasable by Requisitions
+  - balance: Only the standard SR ammunition is available in ammo bin form, you still
+      have to purchase its specialized ammo in individual magazines.
+  - rscadd: SG-153 Spotting Rifle Ammo Bins can also be made by factory.
+  - bugfix: SG-153 uses 12.7mm Smart Magnum rounds rather than the nonsensical 12x7mm
+  Notamaniac:
+  - bugfix: Glasses/Goggles can no longer be toggled in hand creating an empty hud
+      visor sprite
+  ivanmixo:
+  - bugfix: You can no longer hijack alamo shipside
+  yyzsong:
+  - rscadd: The Acid Maw may now fire a facehugger shot
+  - rscdel: The Acid Maw may no longer fire an acid gas shot
+  - rscadd: The Acid Jaws may now fire an acid gas shot
+  - rscdel: The Acid Jaws may no longer fire a facehugger shot
