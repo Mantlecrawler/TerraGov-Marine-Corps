@@ -257,3 +257,8 @@
   tyeagg:
   - qol: each cas ammo now have their own crosshair
   - imageadd: cas crosshairs
+2025-03-14:
+  Lumipharon:
+  - rscadd: Foam submerges like fire or tallgrass
+  witherc6:
+  - rscadd: added paramedic labcoat to marine clothing vendor
