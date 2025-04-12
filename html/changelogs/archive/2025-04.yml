@@ -131,3 +131,20 @@
   TiviPlus:
   - refactor: movement will now execute canonically (ie the expected order, finishing
       one before starting the next)
+2025-04-12:
+  Arar:
+  - bugfix: fixed welding inhand not showing
+  - code_imp: changed welding hat code to use balloon alerts when toggling
+  - refactor: refactored mentions of welding masks into welding helmets
+  Arturlang:
+  - balance: Weed pods are no longer deleted when resin walls are destroyed
+  - rscadd: Special resin walls are now free, but weaker in health in comparison to
+      normal walls, they've been moved into normal secrete resin
+  - rscadd: Adds the ability to replace resin walls with different variants
+  - rscadd: add codex entries for resin wall armor stats.
+  Cerrik:
+  - bugfix: Adjusted the base class of the SAA revolver speedloader
+  Isy232:
+  - rscdel: Command tablets no longer check access for viewing.
+  tyeagg:
+  - rscadd: pda with audio log support for mappers
